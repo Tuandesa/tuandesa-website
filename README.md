@@ -65,6 +65,24 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/raydragneel"><img src="https://avatars2.githubusercontent.com/u/49826694?s=460&v=4" width="100px;" alt=""/>
+            <br /><sub><b>Ray Dragneel</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Tuandesa/tuandesa-website/commits?author=raydragneel" title="Documentation">📖</a> 
+        <a href="https://github.com/Tuandesa/tuandesa-website/pulls?q=is%3Apr+reviewed-by%3Araydragneel" title="Reviewed Pull Requests">👀</a>
+      </td>
+  </tr>
+</table>
 
 ## Code of Conduct
 
